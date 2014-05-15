@@ -1,14 +1,14 @@
 This is a repository of [matchit.vim](http://www.vim.org/scripts/script.php?script_id=39) for *Vundle*.
 
 * Matchit version: 1.13.2
-*rcplugins `matchit.vim`:
+*rcplugins `vim-matchit`:
 ```
 " Matchit
 "--------
 
 Bundle 'mdouchement/matchit.vim'
 ```
-* rcfiles `matchit.vim`:
+* rcfiles `vim-matchit`:
 ```
 " Matchit
 "--------
