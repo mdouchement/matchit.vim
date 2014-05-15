@@ -10,6 +10,9 @@ Bundle 'mdouchement/matchit.vim'
 ```
 * rcfiles `matchit.vim`:
 ```
+" Matchit
+"--------
+
 runtime macros/matchit.vim
 
 set nocompatible
